@@ -1,0 +1,3 @@
+[submodule "themes/Foto"]
+	path = themes/Foto
+	url = https://github.com/nux-li/hugo-foto-theme
