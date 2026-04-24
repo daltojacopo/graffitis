@@ -1,3 +1,6 @@
 [submodule "themes/Foto"]
 	path = themes/Foto
 	url = https://github.com/nux-li/hugo-foto-theme
+[submodule "themes/bridget"]
+	path = themes/bridget
+	url = https://github.com/Sped0n/bridget.git
