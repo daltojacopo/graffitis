@@ -2,7 +2,9 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://localhost:1313/Info/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://localhost:1313/dda/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://localhost:1313/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://localhost:1313/TNVLZ/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>http://localhost:1313/albums/dda/fo2_2b22_5kugjh/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>http://localhost:1313/albums/dda/fo2_2b22_esac81/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>http://localhost:1313/albums/dda/fo2_2b22_j8ywkj/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
